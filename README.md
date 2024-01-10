@@ -1,5 +1,10 @@
 # mastermathematics Manim Code Repository
 
+Welcome to the GitHub repository for [mastermathematics](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ), where I use the power of ManimCE to create stunning mathematical videos. If you enjoy visual math and engaging explanations, be sure to check out and **subscribe to my YouTube channel** for the latest content!
+
+[![Subscribe to mastermathematics](https://img.shields.io/youtube/channel/subscribers/UCJ0KfcrJnTDGwFDXcPe6MZQ?style=social&label=Subscribe%20to%20mastermathematics)](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ)
+![Videos](https://img.shields.io/youtube/channel/views/UCJ0KfcrJnTDGwFDXcPe6MZQ?style=social)
+
 ![Manim Version](https://img.shields.io/badge/Manim%20CE-0.17-blueviolet)
 ![Manim Version](https://img.shields.io/pypi/v/manimce?label=manim)
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
@@ -7,8 +12,6 @@
 ![Downloads](https://img.shields.io/github/downloads/matthiasmitwittfogel/mastermathematics/total)
 ![GitHub Issues](https://img.shields.io/github/issues/matthiasmitwittfogel/mastermathematics)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/matthiasmitwittfogel/mastermathematics)
-![Videos](https://img.shields.io/youtube/channel/views/UCJ0KfcrJnTDGwFDXcPe6MZQ?style=social)
-![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJ0KfcrJnTDGwFDXcPe6MZQ?style=social)
 [![Last Commit](https://img.shields.io/github/last-commit/matthiasmitwittfogel/mastermathematics)](https://github.com/matthiasmitwittfogel/mastermathematics)
 [![License](https://img.shields.io/github/license/matthiasmitwittfogel/mastermathematics)](https://github.com/matthiasmitwittfogel/mastermathematics/blob/main/LICENSE)
 
