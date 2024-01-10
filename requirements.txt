@@ -1,0 +1,20 @@
+# Manim and its core dependencies
+manimce==0.17.0  # Replace with the version you're using
+numpy
+matplotlib
+Pillow
+scipy
+tqdm
+pycairo
+Pygments
+
+# If you have a specific Python package for voiceover, put it here
+# voiceover==version  # Replace 'voiceover' and 'version' with the actual package name and version number
+
+# Additional packages for extended functionalities
+# (Uncomment or add as necessary for your project)
+# networkx
+# opencv-python
+# pydub
+# pyreadline; sys_platform == 'win32'
+# colour
