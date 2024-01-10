@@ -1,0 +1,20 @@
+# Ignore the media directory
+media/
+
+# Ignore Python bytecode compiled files
+*.pyc
+
+# Ignore the directory Python uses to store bytecode compilation
+__pycache__/
+
+# Optionally, ignore your virtual environment directory (if you use one)
+# The name of the directory might be different (env/, venv/, .venv/, etc.)
+# env/
+# venv/
+
+# Optionally, ignore IDE specific settings (uncomment if you use PyCharm)
+# .idea/
+
+# Ignore operating system generated files
+.DS_Store    # File system files for macOS
+Thumbs.db    # Thumbnail cache files for Windows
