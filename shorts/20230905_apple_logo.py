@@ -2,7 +2,6 @@ from manim import *
 import numpy as np
 import math
 from sympy import symbols, Eq, solve, sin
-import sympy
 
 # configs
 config.background_color = BLACK
