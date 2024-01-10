@@ -1,7 +1,12 @@
 # Build
-run `manim -pql [filename]` to generate videos for preview.
+1. Install ManimCE according to [installation](https://docs.manim.community/en/stable/installation.html) page in Manim Home Page.
 
-For code using voice over, please add a .env file where you run manim and fill in the AZURE_SUBSCRIPTION_KEY and AZURE_SERVICE_REGION according to the voice tutorial in manim CE manual.
+2. There are some vidoes using voiceover. Please install [Manim voiceover](https://docs.manim.community/en/stable/guides/add_voiceovers.html).
+
+3. Since I use Azure voiceover API, you need to fill in the .env with your keys. You can refer to [AzureService](https://voiceover.manim.community/en/latest/services.html).
+
+4. run `manim -pql [filename]` to generate videos. You can also choose other options to run manim acoording to your need.
+
 # Introduction
 This is my manim code for YouTube channel [mastermathematics](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ).
 In this channel, I use the famous [Manim CE 0.17 Version](https://www.manim.community/) to generate math vidoes.
