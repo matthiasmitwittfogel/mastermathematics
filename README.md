@@ -1,8 +1,12 @@
 # Build
 run `manim -pql [filename]` to generate videos for preview.
+
+For code using voice over, please add a .env file where you run manim and fill in the AZURE_SUBSCRIPTION_KEY and AZURE_SERVICE_REGION according to the voice tutorial in manim CE manual.
 # Introduction
 This is my manim code for YouTube channel [mastermathematics](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ).
 In this channel, I use the famous [Manim CE 0.17 Version](https://www.manim.community/) to generate math vidoes.
+
+The following table lists all the python code and the corresponding vidoes generated in my channel. Please enjoy the code and welcome to watch and subscribe.
     
  File Name                                                                                         | youtube link|
 |:--------------------------------------------------------------------------------------------------|:--|
@@ -27,5 +31,3 @@ In this channel, I use the famous [Manim CE 0.17 Version](https://www.manim.comm
 | [20231031_bytedance_logo.py](shorts%2F20231031_bytedance_logo.py)                                 |https://www.youtube.com/shorts/JuBcZKQRv_w|
 | [20231104_cube_sum](videos%2F20231104_cube_sum) |https://www.youtube.com/watch?v=r5itGj29gh8&t=24s|
 |[20231107_china_flag](videos%2F20231107_china_flag)|https://www.youtube.com/watch?v=G3FpbKVKlCg|
-## Attention
-For code using voice over, please add a .env file where you run manim and fill in the AZURE_SUBSCRIPTION_KEY and AZURE_SERVICE_REGION according to the voice tutorial in manim CE manual.
