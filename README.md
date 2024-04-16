@@ -37,4 +37,4 @@ The following table lists all the python code and the corresponding vidoes gener
 | [20231104_cube_sum](videos%2F20231104_cube_sum) |https://www.youtube.com/watch?v=r5itGj29gh8&t=24s|
 |[20231107_china_flag](videos%2F20231107_china_flag)|https://www.youtube.com/watch?v=G3FpbKVKlCg|
 |[20240416_mirror_equation.py](shorts%2F20240416_mirror_equation.py)|https://www.youtube.com/shorts/E_v4qAUGNUI|
-|[20240416_bubble_sort](videos%2F20240416_BubbleSortAnimationOptimized.py)|https://www.youtube.com/watch?v=YUuUKpOJqnE|
+|[20240416_bubble_sort](videos%2F20240416_bubble_sort)|https://www.youtube.com/watch?v=YUuUKpOJqnE|
